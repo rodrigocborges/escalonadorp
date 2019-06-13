@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\bin\Debug\EscalonadorP.exe.config
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\bin\Debug\EscalonadorP.exe
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\bin\Debug\EscalonadorP.pdb
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\obj\Debug\EscalonadorP.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\obj\Debug\EscalonadorP.MainForm.resources
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\obj\Debug\EscalonadorP.Properties.Resources.resources
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\obj\Debug\EscalonadorP.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\obj\Debug\EscalonadorP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\obj\Debug\EscalonadorP.exe
+C:\Users\Usuario\Desktop\EscalonadorP\EscalonadorP\obj\Debug\EscalonadorP.pdb
